@@ -1,11 +1,11 @@
 <h1 align="center">Hi there! I'm Palak Choudhary👋</h1>
-<h3 align="center">A passionate ML Engineer from India</h3>
+<h3 align="center">A passionate Python Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palak-999&label=Profile%20views&color=0e75b6&style=flat" alt="palak-999" /> </p>
 
-- 🔭 I’m currently working on **Prediction Model**
+- 🔭 I’m currently working on **Gen AI**
 
-- 🌱 I’m currently learning **Deep Learning,Computer Vision And Generative AI**
+- 🌱 I’m currently learning **Machine Learning and Generative AI**
 
 - 💬 Ask me about **Python,Numpy,Pandas,Mysql**
 
